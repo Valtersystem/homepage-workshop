@@ -23,7 +23,7 @@ import Price from '../components/Price.vue';
         Convido você a participar do nosso Workshop Família Saudável. Nele, compartilharemos estratégias práticas para fortalecer os vínculos familiares e resolver conflitos de forma eficaz.
       </p>
 
-      <p class="text-gray-500 md:mt-4 md:block">
+      <p class="text-gray-500 md:mt-4 md:block mb-4">
         Reserve sua vaga agora mesmo e transforme sua vida familiar para melhor!
       </p>
 
