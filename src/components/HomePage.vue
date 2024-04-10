@@ -13,7 +13,7 @@ import Price from '../components/Price.vue';
       </h2>
 
       <p class="text-gray-500 mt-4 md:mt-4 md:block">
-        Olá, fulano (a)!
+        Olá, você!
       </p>
       <p class="text-gray-500 md:mt-4 md:block">
         Eu sou o Marcus Solon. Ao longo de minha carreira como Engenheiro Civil e Terapeuta Familiar Sistêmico, tenho ajudado famílias a restaurarem seus laços e encontrarem equilíbrio emocional.

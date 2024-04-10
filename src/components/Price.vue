@@ -32,14 +32,14 @@
             <div class="flex items-end text-3xl font-black leading-none text-neutral-600 lg:text-4xl" bis_skin_checked="1">
               <span> €27  EUR </span>
             </div>
-            <!-- <ul>
+             <ul>
               <li class="flex items-center mt-8 mb-2 text-base font-medium tracking-tight text-neutral-600">
                 <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600">
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                     <path d="M20 6L9 17l-5-5"></path>
                   </svg>
                 </span>
-                <strong>2 demo templates.</strong>
+                <strong>Material impresso</strong>
               </li>
               <li class="flex items-center mb-2 text-base font-medium tracking-tight text-neutral-600">
                 <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600">
@@ -47,34 +47,17 @@
                     <path d="M20 6L9 17l-5-5"></path>
                   </svg>
                 </span>
-                <strong>Fully responsive.</strong>
+                <strong>Lanche</strong>
               </li>
-              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-neutral-600 text-opacity-70">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600 text-opacity-70">
+              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-neutral-600">
+                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600">
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
-                    <line x1="18" y1="6" x2="6" y2="18"></line>
-                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                    <path d="M20 6L9 17l-5-5"></path>
                   </svg>
                 </span>
-                Figma.
+                <strong>Sorteios e brindes</strong>
               </li>
-              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-neutral-600 text-opacity-70">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600 text-opacity-70">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
-                    <line x1="18" y1="6" x2="6" y2="18"></line>
-                    <line x1="6" y1="6" x2="18" y2="18"></line>
-                  </svg>
-                </span>
-                Lifetime Support.
-              </li>
-              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-neutral-600 text-opacity-70">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600 text-opacity-70">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
-                    <line x1="18" y1="6" x2="6" y2="18"></line>
-                    <line x1="6" y1="6" x2="18" y2="18"></line>
-                  </svg> </span>Free Updates
-              </li>
-            </ul> -->
+            </ul> 
   
             <div class="mt-8" bis_skin_checked="1">
               <a href="https://wa.me/351913176937?text=WorkShop%20Fam%C3%ADlia%20Saud%C3%A1vel"  target="_blank">
@@ -91,48 +74,33 @@
                 <span>€47  EUR</span>
               </span>
             </div>
-            <!-- <ul>
-              <li class="flex items-center mt-8 mb-2 text-base font-medium tracking-tight text-white">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white">
+            
+            <ul>
+              <li class="flex items-center mt-8 mb-2 text-base font-medium tracking-tight text-neutral-600">
+                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600">
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                     <path d="M20 6L9 17l-5-5"></path>
                   </svg>
                 </span>
-                <strong>All templates.</strong>
+                <strong>Material impresso</strong>
               </li>
-              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-white">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white">
+              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-neutral-600">
+                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600">
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                     <path d="M20 6L9 17l-5-5"></path>
                   </svg>
                 </span>
-                <strong>Figma files.</strong>
+                <strong>Lanche</strong>
               </li>
-              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-white">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white">
+              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-neutral-600">
+                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-neutral-600">
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                     <path d="M20 6L9 17l-5-5"></path>
                   </svg>
                 </span>
-                <strong>Free Updates.</strong>
+                <strong>Sorteios e brindes</strong>
               </li>
-              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-white">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>
-                <strong>Fully Responsive</strong>
-              </li>
-              <li class="flex items-center mb-2 text-base font-medium tracking-tight text-white">
-                <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>
-                <strong>Lifetime Support</strong>
-              </li>
-            </ul> -->
+            </ul> 
   
             <div class="mt-8" bis_skin_checked="1">
               <a href="https://wa.me/351913176937?text=WorkShop%20Fam%C3%ADlia%20Saud%C3%A1vel"  target="_blank">
