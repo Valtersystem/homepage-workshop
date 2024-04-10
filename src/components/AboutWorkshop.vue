@@ -23,13 +23,13 @@
             <div class="grid grid-cols-2 gap-4 md:grid-cols-1 lg:grid-cols-2  rounded-lg">
               <img
                 alt=""
-                src="../../../../public/happy-1.jpg"
+                src="../../public/happy-1.jpg"
                 class="h-40 w-full object-cover sm:h-56 md:h-full rounded-lg"
               />
       
               <img
                 alt=""
-                src="../../../../public/happy-2.jpg"
+                src="../../public/happy-2.jpg"
                 class="h-40 w-full object-cover sm:h-56 md:h-full rounded-lg"
               />
             </div>
