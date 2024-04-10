@@ -10,10 +10,10 @@
                   Sobre o Workshop
                 </h2>
       
-                <p class="hidden text-white/90 sm:mt-4 sm:block">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas tempus tellus etiam
-                  sed. Quam a scelerisque amet ullamcorper eu enim et fermentum, augue. Aliquet amet
-                  volutpat quisque ut interdum tincidunt duis.
+                <p class="text-white/90 sm:mt-4 sm:block text-lg font-semibold">
+                  Quer sejas, pai, mãe, filho ou filha, neste WORKSHOP  serás habilitado para contribuir na edificação de uma família emocionalmente saudável,  com qualidade de vida familiar que abranja equilíbrio nas relações entre o casal, entre os filhos, e entre pais e filhos, onde todos se sintam amados, acolhidos, e consigam manter um convívio familiar de paz e pertencimento. 
+
+                  Entrega-te de todo o coração a essa experiência. <samp>Deus te abençoe muitíssimo.</samp>
                 </p>
       
 

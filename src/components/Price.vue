@@ -2,14 +2,14 @@
 
 <template>
   <section class="bg-gray-50" id="price">
-    <div class="relative items-center w-full py-24 mx-auto md:px-12 lg:px-16 max-w-7xl bg-gray-50" bis_skin_checked="1">
+    <div class="relative items-center w-full md:py-24 mx-auto md:px-12 lg:px-16 max-w-7xl bg-gray-50" bis_skin_checked="1">
       <div class="flex flex-wrap items-start justify-center w-full gap-4 px-5 mx-auto lg:px-0" bis_skin_checked="1">
         <div class="w-full xl:w-1/3 lg:w-2/6 md:text-center lg:text-left" bis_skin_checked="1">
           <div class="flex flex-col p-8 lg:p-0" bis_skin_checked="1">
-            <span class="mb-8 text-2xl font-bold text-neutral-600 tracking-relaxed lg:text-5xl"> Investimento </span>
-            <p class="mx-auto mb-4 text-xl font-light text-gray-500 text-opacity-70 lg:pr-10">Pagamento via MB Way ou transferência bancária.</p>
+            <span class="mb-8 text-2xl font-bold text-neutral-600 tracking-relaxed lg:text-4xl uppercase"> Investimento </span>
+            <p class="mx-auto mb-4 text-xl font-light text-gray-500 text-opacity-70 lg:pr-10">Pagamento via MB Way ou transferência <samp>Bancária.</samp></p>
 
-            <p class="mx-auto mb-2 text-xl font-light text-gray-500 text-opacity-70 lg:pr-10 inline">Solicite as informações de pagamento pelo WhatsApp. 
+            <p class="mx-auto mb-2 text-xl font-light text-gray-500 text-opacity-70 lg:pr-10 inline">Solicite as informações de pagamento pelo <samp>WhatsApp.</samp>
             </p>
 
             <div class="flex gap-4 items-center">
@@ -78,13 +78,13 @@
   
             <div class="mt-8" bis_skin_checked="1">
               <a href="https://wa.me/351913176937?text=WorkShop%20Fam%C3%ADlia%20Saud%C3%A1vel"  target="_blank">
-              <button class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-blue-600 transition duration-500 ease-in-out transform border border-white shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 bg-white hover:shadow-none  hover:border-gray-100 border-solid">Investir</button>
+              <button class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-grey-600 transition duration-500 ease-in-out transform border border-white shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 bg-white hover:shadow-none  hover:border-gray-100 border-solid">Investir</button>
             </a>
             </div>
           </div>
         </div>
         <div class="w-full xl:w-1/4 md:w-2/6" bis_skin_checked="1">
-          <div class="relative flex flex-col h-full p-8 bg-blue-600 rounded-xl hover:border-white" bis_skin_checked="1">
+          <div class="relative flex flex-col h-full p-8 bg-yellow-300 rounded-xl hover:border-white" bis_skin_checked="1">
             <span class="mb-4 text-base font-medium tracking-widest text-white uppercase"> Casal </span>
             <div class="flex items-end text-3xl font-black leading-none text-white lg:text-4xl" bis_skin_checked="1">
               <span>
@@ -136,7 +136,7 @@
   
             <div class="mt-8" bis_skin_checked="1">
               <a href="https://wa.me/351913176937?text=WorkShop%20Fam%C3%ADlia%20Saud%C3%A1vel"  target="_blank">
-              <button class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-blue-600 transition duration-500 ease-in-out transform border border-white shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 bg-white hover:border-black">
+              <button class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-grey-600 transition duration-500 ease-in-out transform border border-white shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 bg-white hover:border-black">
                Investir</button>
               </a>
             </div>

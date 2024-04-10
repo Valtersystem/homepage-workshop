@@ -12,7 +12,7 @@ import Price from '../components/Price.vue';
         Construa uma família saudável conosco!
       </h2>
 
-      <p class="text-gray-500 md:mt-4 md:block">
+      <p class="text-gray-500 mt-4 md:mt-4 md:block">
         Olá, fulano (a)!
       </p>
       <p class="text-gray-500 md:mt-4 md:block">
@@ -28,8 +28,11 @@ import Price from '../components/Price.vue';
       </p>
 
       <p class="text-gray-500 md:mt-4 md:block">
-        Dia 13 de Abril - 8H30 - 12H30 <br>
-        Lagoinha Porto
+        <strong>
+          <i class="fa-solid fa-calendar-days"></i> Data: April 13, 2024  <br>
+          <i class="fa-solid fa-clock"></i> Horário: 8:30 AM às 12:30 PM <br>
+          <i class="fa-solid fa-location-dot"></i> Localização: Rua de Faria Guimarães, 798, Porto, Porto, Portugal
+        </strong>
       </p>
 
       <div class="mt-4 md:mt-8">
